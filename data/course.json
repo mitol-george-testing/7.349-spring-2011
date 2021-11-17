@@ -1,0 +1,34 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Science",
+      "Biology",
+      "Stem Cells"
+    ],
+    [
+      "Health and Medicine",
+      "Functional Genomics"
+    ],
+    [
+      "Health and Medicine",
+      "Biomedicine"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "3c299600-246f-74ec-7fed-77618275ccae",
+      "b4f5c03d-3a60-082b-9613-c26cbdb534f0"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Stem Cells: A Cure or Disease?",
+  "course_description": "Have you ever considered going to a pharmacy to order some new cardiomyocytes (heart muscle cells) for your ailing heart? It might sound crazy, but recent developments in stem cell science have made this concept not so futuristic. In this course, we will explore the underlying biology behind the idea of using stem cells to treat disease, specifically analyzing the mechanisms that enable a single genome to encode multiple cell states ranging from neurons to fibroblasts to T cells. Overall, we hope to provide a comprehensive overview of this exciting new field of research and its clinical relevance.\n\nThis course is one of many [Advanced Undergraduate Seminars](https://biology.mit.edu/undergraduate/course_listings/advanced_undergraduate_seminars) offered by the Biology Department at MIT. These seminars are tailored for students with an interest in using primary research literature to discuss and learn about current biological research in a highly interactive setting. Many instructors of the Advanced Undergraduate Seminars are postdoctoral scientist_s_ with a strong interest in teaching.\n",
+  "department_numbers": [
+    "7"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "7.349",
+  "learning_resource_types": [],
+  "title": "Course Metadata"
+}
